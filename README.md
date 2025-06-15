@@ -20,7 +20,7 @@ Sharing insights, tips, and tutorials in bioinformatics and beyond:
 
 📖 More on Medium Profile [https://medium.com/@naila.srivastava ]
 
-📊 Kaggle Datasets & Notebooks
+## 📊 Kaggle Datasets & Notebooks
 Exploring data-driven questions with public datasets:
 
 * Project datasets and notebooks
