@@ -7,7 +7,7 @@ Open to global, remote opportunities 🌍
 ---
 
 ## 🧬 About Me  
-I’m passionate about integrating **genomics**, **machine learning**, and **data visualization** to uncover insights in health and life sciences. With a solid background in both **computational biology** and **data analytics**, my work blends biological complexity with analytical clarity — whether I’m decoding gene variants or translating public health data into dashboards.
+I’m passionate about integrating **genomics**, **machine learning**, and **data visualization** to uncover insights in health and life sciences. With a solid background in both **computational biology** and **data analytics**, my work blends biological complexity with analytical clarity, whether I’m decoding gene variants or translating public health data into dashboards.
 
 🧠 Currently diving into:
 - Variant calling & GWAS  
