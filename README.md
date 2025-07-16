@@ -1,30 +1,72 @@
-# Hello!👋 My name is Naila Srivastava
+# 👋 Hello, I’m Naila Srivastava  
+**Bioinformatician | Data Analyst | Genomics Enthusiast**
 
-A Bioinformatician with an MSc in Bioinformatics & Systems Biology from the University of Manchester.
+MSc Bioinformatics & Systems Biology | University of Manchester 🇬🇧  
+Open to global, remote opportunities 🌍  
 
-I'm passionate about integrating genomics, machine learning, and data visualization to drive personalized medicine and meaningful discoveries. My areas of expertise span from NGS analysis, variant calling, and GWAS to AI-powered insights, single-cell and spatial transcriptomics, and interactive dashboards with Tableau.
+---
 
-When I’m not coding pipelines or breaking down data trends, I’m crafting educational blogs, dreaming in pandas DataFrames, or fixing plots that just won’t align. 
+## 🧬 About Me  
+I’m passionate about integrating **genomics**, **machine learning**, and **data visualization** to uncover insights in health and life sciences. With a solid background in both **computational biology** and **data analytics**, my work blends biological complexity with analytical clarity — whether I’m decoding gene variants or translating public health data into dashboards.
 
-## 💼 Skills
-- **Programming Languages:** Linux/Unix, Python (numpy, scipy and pandas), Biopython, and R programming
-- **Bioinformatics Tools & Computational Biology:** NCBI databases, EMBL-EBI databases, GATK, PDB, MEGA, Jupyter Lab, Anaconda and AlphaFold
-- **Statistics & Data Analysis:** MS Excel, MySQL, Power BI and R Studio
-- **Machine Learning:** Scikit-learn, Data visualization (Matplotlib, Seaborn), PCA, Linear/Logistic Regression, Clustering, Decision Trees and SVM
-- **Next-Generation Sequencing:** Expert in Illumina, Nanopore, PacBio technologies, FASTQ Quality Control, Sequence Alignment and Gene Annotation
-- **Version Control:** Git
-- **Communication & Collaboration:** Strong written and verbal communication skills, with experience in presenting findings and collaboration skills honed through academic presentations and volunteer roles. Proven ability to lead cross-functional projects with academic partners.
+🧠 Currently diving into:
+- Variant calling & GWAS  
+- AI-powered health insights  
+- Single-cell & spatial transcriptomics  
+- Building reproducible, research-grade pipelines  
+- Creating interactive visualizations and writing impactful blogs  
 
-## ✍️ Medium Publications
-Sharing insights, tips, and tutorials in bioinformatics and beyond:
+When I’m not scripting in Python or polishing a PCA plot, you’ll find me on Medium turning complex bioinfo into clarity, or on Kaggle, sharing curated public datasets that people *actually* use.
 
-📖 More on Medium Profile [https://medium.com/@naila.srivastava ]
+---
 
-## 📊 Kaggle Datasets & Notebooks
-Exploring data-driven questions with public datasets:
+## 💼 Skills Overview  
 
-* Project datasets and notebooks
-* Cleaned dataset and EDA project shared
-* Sample visualizations, filters, and key takeaways documented
+### 🧬 Bioinformatics & Computational Biology  
+- **NGS Analysis** (Illumina, Nanopore & PacBio)  
+- **Variant Calling, SNP Annotation and Gene Prioritization**  
+- **GWAS**, RNA-Seq and Single-Cell/Spatial Transcriptomics  
+- **Bioinfo Tools**: BLAST, GATK, MEGA, Jupyter Lab, Anaconda, R Studio, Nextflow and AlphaFold 
+- **Databases**: NCBI, Ensembl, PDB, EMBL-EBI  
 
-🔗 Visit Kaggle Profile [https://kaggle.com/nailasrivastava ]
+### 📊 Data Analytics & Visualization  
+- **Data Wrangling & EDA**: Pandas, NumPy, Excel and MySQL  
+- **Statistical Analysis**: R, RStudio and Scikit-learn  
+- **Visualization**: Tableau, Power BI, Matplotlib and Seaborn  
+- **ML Models**: Regression, PCA, Clustering, SVM, Decision Trees  
+- **Dashboards & Web Apps**: Streamlit and Power BI  
+
+### ⚙️ Technical & Soft Skills  
+- **Programming**: Python, R, Unix/Linux Shell and Bash
+- **Version Control**: Git  
+- **Communication**: Strong verbal & written skills | Cross-functional collaboration | Academic presentations & blogging
+
+---
+
+## ✍️ Medium Publications  
+I write about trends, tools & applications in bioinformatics and data science.  
+From beginner explainers to deep-dive workflows:
+
+📖 [Visit My Medium Profile →](https://medium.com/@naila.srivastava)
+
+---
+
+## 📊 Kaggle Datasets & Notebooks  
+Actively contributing curated datasets with real-world relevance:  
+- **Drugs, Conditions & Side Effects** *(4K+ views | 1k+ downloads)*  
+- **COVID-19 Country Data** *(1K+ views | 200+ downloads)*  
+- Structured EDA, clean datasets, and in-demand topics
+
+🔗 [Visit My Kaggle Profile →](https://kaggle.com/nailasrivastava)
+
+---
+
+## 🌐 Let’s Connect  
+Open to collaborations, freelance projects, and research roles in:  
+**Bioinformatics**, **Health Data**, **Genomics**, **Analytics**, and **Precision Medicine**.
+
+---
+
+> “In a world full of noise, I turn complex biological data into meaningful signals.”  
+
+Thanks for stopping by. Feel free to explore my projects, and don't forget to star what inspires you!  
