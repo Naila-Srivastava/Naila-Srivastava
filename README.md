@@ -23,7 +23,7 @@ When I’m not scripting in Python or polishing a PCA plot, you’ll find me on 
 ## 💼 Skills Overview  
 
 ### 🧬 Bioinformatics & Computational Biology  
-- **NGS Analysis** (Illumina, Nanopore & PacBio)  
+- **NGS Analysis** 
 - **Variant Calling, SNP Annotation and Gene Prioritization**  
 - **GWAS**, RNA-Seq and Single-Cell/Spatial Transcriptomics  
 - **Bioinfo Tools**: BLAST, GATK, MEGA, Jupyter Lab, Anaconda, R Studio, Nextflow and AlphaFold 
@@ -32,9 +32,9 @@ When I’m not scripting in Python or polishing a PCA plot, you’ll find me on 
 ### 📊 Data Analytics & Visualization  
 - **Data Wrangling & EDA**: Pandas, NumPy, Excel and MySQL  
 - **Statistical Analysis**: R, RStudio and Scikit-learn  
-- **Visualization**: Tableau, Power BI, Matplotlib and Seaborn  
+- **Visualization**: Google Analytics (GA4), Tableau, Power BI, Matplotlib and Seaborn  
 - **ML Models**: Regression, PCA, Clustering, SVM, Decision Trees  
-- **Dashboards & Web Apps**: Streamlit and Power BI  
+- **Dashboards & Web Apps**: Looker Studio, Streamlit and Power BI  
 
 ### ⚙️ Technical & Soft Skills  
 - **Programming**: Python, R, Unix/Linux Shell and Bash
