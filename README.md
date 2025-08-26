@@ -2,14 +2,14 @@
 **Bioinformatician | Data Analyst | Genomics Enthusiast**
 
 MSc Bioinformatics & Systems Biology | University of Manchester 🇬🇧  
-Open to global, remote opportunities 🌍  
+Open to global opportunities   
 
 ---
 
-## 🧬 About Me  
-I’m passionate about integrating **genomics**, **machine learning**, and **data visualization** to uncover insights in health and life sciences. With a solid background in both **computational biology** and **data analytics**, my work blends biological complexity with analytical clarity, whether I’m decoding gene variants or translating public health data into dashboards.
+## About Me  
+I’m passionate about integrating **Multi-OMICS**, **genomics**, **rare diseases**, **machine learning**, and **data visualization** to uncover insights in health and life sciences. With a solid background in both **computational biology** and **data analytics**, my work blends biological complexity with analytical clarity, whether I’m decoding gene variants or translating public health data into dashboards.
 
-🧠 Currently diving into:
+Currently diving into:
 - Variant calling, Rare diseases & GWAS  
 - AI-powered health insights  
 - Single-cell & spatial transcriptomics  
@@ -20,25 +20,25 @@ When I’m not scripting in Python or polishing a PCA plot, you’ll find me on 
 
 ---
 
-## 💼 Skills Overview  
+## Skills Overview  
 
 ### 🧬 Bioinformatics & Computational Biology  
-- **NGS Analysis** 
-- **Variant Calling, SNP Annotation and Gene Prioritization**  
-- **GWAS**, RNA-Seq and Single-Cell/Spatial Transcriptomics  
-- **Bioinfo Tools**: BLAST, GATK, MEGA, Jupyter Lab, Anaconda, R Studio, Nextflow and AlphaFold 
-- **Databases**: NCBI, Ensembl, PDB, EMBL-EBI  
-
+- **Next-generation sequencing:** Whole Genome Sequencing, WES/WXS sequencing, Illumina, Nanopore, PacBio technologies, FASTQ Quality Control, Variants/Genes Annotation and Sequence Alignment.
+- **Multi-omics:** Somatic/Germline analysis, RNA-seq, single-cell and spatial transcriptomics
+- **Programming Skills:** Jupyter, Anaconda, Python, R, Bash and UNIX/Linux
+- **Bioinformatics Tools:** NCBI databases, EMBL-EBI databases, Ensembl, PDB, GATK, Galaxy, BLAST, UCSC Genome Browser, ClinVar, InterPro and AlphaFold
+- **Workflow tools and version control:** Git, GitHub and Nextflow
+- **Visualization:** Seaborn, Matplotlib, PowerBI and Tableau
+ 
 ### 📊 Data Analytics & Visualization  
-- **Data Wrangling & EDA**: Pandas, NumPy, Excel and MySQL  
-- **Statistical Analysis**: R, RStudio and Scikit-learn  
-- **Visualization**: Google Analytics (GA4), Tableau, Power BI, Matplotlib and Seaborn  
+- **Analytics Tools:** Amplitude, Google Analytics 4 (GA4), Mixpanel, Tableau and Power BI
+- **Programming & Scripting:** Python (Pandas, NumPy, Seaborn), R (tidyverse), SQL and Bash
+- **Data Handling:** Data wrangling, ETL, cleaning, merging and transformation
+- **Dashboards and Web Apps:** Interactive dashboards using Streamlit, Tableau, Google Looker Studio and Power BI
+- **Data Visualization:** Google Analytics (GA4), Amplitude, Tableau, Power BI, Matplotlib, Plotly, ggplot2 and Seaborn
 - **ML Models**: Regression, PCA, Clustering, SVM, Decision Trees  
-- **Dashboards & Web Apps**: Looker Studio, Streamlit and Power BI  
 
-### ⚙️ Technical & Soft Skills  
-- **Programming**: Python, R, Unix/Linux Shell and Bash
-- **Version Control**: Git  
+### ⚙️ Soft Skills  
 - **Communication**: Strong verbal & written skills | Cross-functional collaboration | Academic presentations & blogging
 
 ---
@@ -53,8 +53,8 @@ From beginner explainers to deep-dive workflows:
 
 ## 📊 Kaggle Datasets & Notebooks  
 Actively contributing curated datasets with real-world relevance:  
-- **Drugs, Conditions & Side Effects** *(4K+ views | 1k+ downloads)*  
-- **COVID-19 Country Data** *(1K+ views | 200+ downloads)*  
+- **Drugs, Conditions & Side Effects** *(5.5K+ views | 1.2K+ downloads)*  
+- **Life Expectancy Analysis** *(6K+ views | 1.5K+ downloads)*  
 - Structured EDA, clean datasets, and in-demand topics
 
 🔗 [Visit My Kaggle Profile →](https://kaggle.com/nailasrivastava)
