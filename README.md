@@ -22,7 +22,7 @@ When I’m not scripting in Python or polishing a PCA plot, you’ll find me on 
 
 ## Skills Overview  
 
-### 🧬 Bioinformatics & Computational Biology  
+### Bioinformatics & Computational Biology  
 - **Next-generation sequencing:** Whole Genome Sequencing, WES/WXS sequencing, Illumina, Nanopore, PacBio technologies, FASTQ Quality Control, Variants/Genes Annotation and Sequence Alignment.
 - **Multi-omics:** Somatic/Germline analysis, RNA-seq, single-cell and spatial transcriptomics
 - **Programming Skills:** Jupyter, Anaconda, Python, R, Bash and UNIX/Linux
@@ -30,7 +30,7 @@ When I’m not scripting in Python or polishing a PCA plot, you’ll find me on 
 - **Workflow tools and version control:** Git, GitHub and Nextflow
 - **Visualization:** Seaborn, Matplotlib, PowerBI and Tableau
  
-### 📊 Data Analytics & Visualization  
+### Data Analytics & Visualization  
 - **Analytics Tools:** Amplitude, Google Analytics 4 (GA4), Mixpanel, Tableau and Power BI
 - **Programming & Scripting:** Python (Pandas, NumPy, Seaborn), R (tidyverse), SQL and Bash
 - **Data Handling:** Data wrangling, ETL, cleaning, merging and transformation
@@ -38,12 +38,12 @@ When I’m not scripting in Python or polishing a PCA plot, you’ll find me on 
 - **Data Visualization:** Google Analytics (GA4), Amplitude, Tableau, Power BI, Matplotlib, Plotly, ggplot2 and Seaborn
 - **ML Models**: Regression, PCA, Clustering, SVM, Decision Trees  
 
-### ⚙️ Soft Skills  
+### Soft Skills  
 - **Communication**: Strong verbal & written skills | Cross-functional collaboration | Academic presentations & blogging
 
 ---
 
-## ✍️ Medium Publications  
+## Medium Publications  
 I write about trends, tools & applications in bioinformatics and data science.  
 From beginner explainers to deep-dive workflows:
 
@@ -51,7 +51,7 @@ From beginner explainers to deep-dive workflows:
 
 ---
 
-## 📊 Kaggle Datasets & Notebooks  
+## Kaggle Datasets & Notebooks  
 Actively contributing curated datasets with real-world relevance:  
 - **Drugs, Conditions & Side Effects** *(5.5K+ views | 1.2K+ downloads)*  
 - **Life Expectancy Analysis** *(6K+ views | 1.5K+ downloads)*  
