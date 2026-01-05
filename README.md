@@ -66,5 +66,3 @@ I am open to collaborations and research roles in **Bioinformatics, Genomics, an
 >*"In a world full of noise, I turn complex biological data into meaningful signals."*
 
 ---
-
-plore my projects, and don't forget to star what inspires you!  
