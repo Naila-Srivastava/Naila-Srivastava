@@ -1,72 +1,70 @@
 # 👋 Hello, I’m Naila Srivastava  
-**Bioinformatician | Data Analyst | Genomics Enthusiast**
+**Bioinformatician — Genomics & Pipelines**
 
 MSc Bioinformatics & Systems Biology | University of Manchester 🇬🇧  
 Open to global opportunities   
 
 ---
 
-## About Me  
-I’m passionate about integrating **Multi-OMICS**, **genomics**, **rare diseases**, **machine learning**, and **data visualization** to uncover insights in health and life sciences. With a solid background in both **computational biology** and **data analytics**, my work blends biological complexity with analytical clarity, whether I’m decoding gene variants or translating public health data into dashboards.
+## About Me
 
-Currently diving into:
-- Variant calling, Rare diseases & GWAS  
-- AI-powered health insights  
-- Single-cell & spatial transcriptomics  
-- Building reproducible, research-grade pipelines  
-- Creating interactive visualizations and writing impactful blogs  
+I am a Bioinformatician specialising in the analysis of high-dimensional genomic data, including **NGS (WES/WGS)** and **Single-cell transcriptomics**. I focus on developing reproducible, scalable pipelines using **Python, R, and Nextflow** to interpret complex biological datasets and prioritise variants for precision medicine. Currently, I am leading the design of high-throughput analytics pipelines that bridge the gap between large-scale data engineering and biological discovery.
 
-When I’m not scripting in Python or polishing a PCA plot, you’ll find me on Medium turning complex bioinfo into clarity, or on Kaggle, sharing curated public datasets that people *actually* use.
+## Currently building & exploring
 
----
-
-## Skills Overview  
-
-### Bioinformatics & Computational Biology  
-- **Next-generation sequencing:** Whole Genome Sequencing, WES/WXS sequencing, Illumina, Nanopore, PacBio technologies, FASTQ Quality Control, Variants/Genes Annotation and Sequence Alignment.
-- **Multi-omics:** Somatic/Germline analysis, RNA-seq, single-cell and spatial transcriptomics
-- **Programming Skills:** Jupyter, Anaconda, Python, R, Bash and UNIX/Linux
-- **Bioinformatics Tools:** NCBI databases, EMBL-EBI databases, Ensembl, PDB, GATK, Galaxy, BLAST, UCSC Genome Browser, ClinVar, InterPro and AlphaFold
-- **Workflow tools and version control:** Git, GitHub and Nextflow
-- **Visualization:** Seaborn, Matplotlib, PowerBI and Tableau
- 
-### Data Analytics & Visualization  
-- **Analytics Tools:** Amplitude, Google Analytics 4 (GA4), Mixpanel, Tableau and Power BI
-- **Programming & Scripting:** Python (Pandas, NumPy, Seaborn), R (tidyverse), SQL and Bash
-- **Data Handling:** Data wrangling, ETL, cleaning, merging and transformation
-- **Dashboards and Web Apps:** Interactive dashboards using Streamlit, Tableau, Google Looker Studio and Power BI
-- **Data Visualization:** Google Analytics (GA4), Amplitude, Tableau, Power BI, Matplotlib, Plotly, ggplot2 and Seaborn
-- **ML Models**: Regression, PCA, Clustering, SVM, Decision Trees  
-
-### Soft Skills  
-- **Communication**: Strong verbal & written skills | Cross-functional collaboration | Academic presentations & blogging
+* **Scalable WES Pipelines:** Deploying reproducible variant calling workflows on **HPC environments** using **SLURM** to identify pathogenic hits in rare disease cohorts.
+* **Cancer Transcriptomics:** Utilising **TCGAbiolinks** and **DESeq2** to identify differentially expressed genes (DEGs) and validating them via **OncoKB**.
+* **Multi-Omics Annotation:** Designing frameworks for **GWAS SNP prioritization** using **FUMA**, **eQTL mapping**, and **BioMart**.
+* **Single-Cell Atlases:** Analysing scRNA-seq datasets to identify cell-type-specific regulatory factors and transcription factors across developmental stages.
+* **Reproducible Research:** Building research-grade pipelines that follow **Ensembl** best-practice guidelines.
 
 ---
 
-## Medium Publications  
-I write about trends, tools & applications in bioinformatics and data science.  
-From beginner explainers to deep-dive workflows:
+## Skills Overview
+
+### Bioinformatics & Pipeline Engineering
+
+* **Omics Expertise:** WES/WGS, bulk/single-cell RNA-seq, Spatial Transcriptomics, GWAS, and Multi-omics Integration.
+
+* **Programming:** Python (Pandas, Scikit-learn, TensorFlow), R (Bioconductor, Tidyverse), Bash, SQL, and Git/GitHub.
+
+* **Pipeline Orchestration:** **Nextflow**, Snakemake, and Linux/Unix environments.
+
+* **NGS Tool Stack:**
+  - **Alignment & Processing:** STAR, BWA, Bowtie, SAMtools, Picard, and BEDTools.
+  - **Variant Calling & Annotation:** GATK, bcftools, VEP, GTEx, and GWAS Catalog.
+  - **Differential Expression & GWAS:** DESeq2 and PLINK.
+  - **Computation & Cloud:** SLURM, HPC environments, and AWS (EC2, S3, Lambda).
+
+### Data Science & Analytics
+
+* **Machine Learning:** Supervised/Unsupervised Learning, Deep Learning for omics, and Statistical Validation of ML Models.
+* **Product Analytics:** Amplitude tracking, Looker Studio, and Google Analytics.
+* **Visualisation:** R (ggplot2, Shiny), Python (Matplotlib, Plotly), Tableau, and Power BI.
+
+## Writing & Contributions
+
+### Medium Publications
+
+I write about trends and deep-dive workflows and tutorials in bioinformatics, translating biological complexity into analytical clarity.
 
 📖 [Visit My Medium Profile →](https://medium.com/@naila.srivastava)
 
----
+### Kaggle Datasets & Notebooks
 
-## Kaggle Datasets & Notebooks  
-Actively contributing curated datasets with real-world relevance:  
-- **Drugs, Conditions & Side Effects** *(5.5K+ views | 1.2K+ downloads)*  
-- **Life Expectancy Analysis** *(6K+ views | 1.5K+ downloads)*  
-- Structured EDA, clean datasets, and in-demand topics
+I actively contribute curated datasets and code with real-world relevance:
+
+* **Drugs, Conditions & Side Effects:** (5.5K+ views | 1.2K+ downloads).
+* **Life Expectancy Analysis:** (6K+ views | 1.5K+ downloads).
 
 🔗 [Visit My Kaggle Profile →](https://kaggle.com/nailasrivastava)
 
+## 🌐 Let’s Connect
+
+I am open to collaborations and research roles in **Bioinformatics, Genomics, and Precision Medicine**.
+
+>*"In a world full of noise, I turn complex biological data into meaningful signals."*
+
 ---
 
-## 🌐 Let’s Connect  
-Open to collaborations, freelance projects, and research roles in:  
-**Bioinformatics**, **Health Data**, **Genomics**, **Analytics**, and **Precision Medicine**.
-
----
-
-> “In a world full of noise, I turn complex biological data into meaningful signals.”  
-
-Thanks for stopping by. Feel free to explore my projects, and don't forget to star what inspires you!  
+plore my projects, and don't forget to star what inspires you!  
