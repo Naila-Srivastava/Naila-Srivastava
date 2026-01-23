@@ -1,5 +1,5 @@
 # 👋 Hello, I’m Naila Srivastava  
-**Bioinformatician — Genomics & Pipelines**
+**Bioinformatician - Genomics & Pipelines**
 
 MSc Bioinformatics & Systems Biology | University of Manchester 🇬🇧  
 Open to global opportunities   
