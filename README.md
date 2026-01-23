@@ -48,7 +48,7 @@ I am a Bioinformatician specialising in the analysis of high-dimensional genomic
 
 I write about trends and deep-dive workflows and tutorials in bioinformatics, translating biological complexity into analytical clarity.
 
-📖 [Visit My Medium Profile →](https://medium.com/@naila.srivastava)
+📖 [Visit My Medium Profile](https://medium.com/@naila.srivastava)
 
 ### Kaggle Datasets & Notebooks
 
@@ -57,7 +57,7 @@ I actively contribute curated datasets and code with real-world relevance:
 * **Drugs, Conditions & Side Effects:** (5.5K+ views | 1.2K+ downloads).
 * **Life Expectancy Analysis:** (6K+ views | 1.5K+ downloads).
 
-🔗 [Visit My Kaggle Profile →](https://kaggle.com/nailasrivastava)
+🔗 [Visit My Kaggle Profile](https://kaggle.com/nailasrivastava)
 
 ## 🌐 Let’s Connect
 
