@@ -1,69 +1,100 @@
-# 👋 Hello, I’m Naila Srivastava  
-**Bioinformatician - Genomics & Pipelines**
+![Naila Srivastava](./github-banner.svg)
 
-MSc Bioinformatics & Systems Biology | University of Manchester 🇬🇧  
-Open to global opportunities 
+<div align="center">
 
+# Naila Srivastava
+**Bioinformatician · Genomics & Pipelines**
 
----
+MSc Bioinformatics & Systems Biology · University of Manchester 🇬🇧
 
-## About Me
+*Scaling Genomic Discovery through Engineering*
 
-I am a Bioinformatician specialising in the analysis of high-dimensional genomic data, including **NGS (WES/WGS)** and **Single-cell transcriptomics**. I focus on developing reproducible, scalable pipelines using **Python, R, and Nextflow** to interpret complex biological datasets and prioritise variants for precision medicine. Currently, I am leading the design of high-throughput analytics pipelines that bridge the gap between large-scale data engineering and biological discovery.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naila%20Srivastava-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/naila-srivastava-28oct/)
+[![Medium](https://img.shields.io/badge/Medium-The%20Bioinformatics%20Playbook-12100E?style=flat&logo=medium)](https://medium.com/@naila.srivastava)
+[![Kaggle](https://img.shields.io/badge/Kaggle-nailasrivastava-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/nailasrivastava)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bioinfobynaila-4285F4?style=flat&logo=google)](https://sites.google.com/view/bioinfobynaila/)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Bioinformatics%20Roles-brightgreen?style=flat)]()
 
-## Currently building & exploring
-
-* **Scalable WES Pipelines:** Deploying reproducible variant calling workflows on **HPC environments** using **SLURM** to identify pathogenic hits in rare disease cohorts.
-* **Cancer Transcriptomics:** Utilising **TCGAbiolinks** and **DESeq2** to identify differentially expressed genes (DEGs) and validating them via **OncoKB**.
-* **Multi-Omics Annotation:** Designing frameworks for **GWAS SNP prioritization** using **FUMA**, **eQTL mapping**, and **BioMart**.
-* **Single-Cell Atlases:** Analysing scRNA-seq datasets to identify cell-type-specific regulatory factors and transcription factors across developmental stages.
-* **Reproducible Research:** Building research-grade pipelines that follow **Ensembl** best-practice guidelines.
+</div>
 
 ---
 
-## Skills Overview
+## 🧬 About Me
+
+I didn't choose bioinformatics because it was easy — I chose it because it sits at the intersection of two things I find endlessly fascinating: the complexity of biology and the precision of computation.
+
+I specialise in building **reproducible, high-throughput genomics pipelines** for NGS, single-cell, rare disease, and cancer genomics — bridging large-scale data engineering with biological discovery. Currently leading analytics pipeline design at Talentlo while continuing to build open-source bioinformatics tooling.
+
+---
+
+## 🔬 Currently Building & Exploring
+
+| Project | Stack | Status |
+|---|---|---|
+| Scalable WES Variant Calling Pipeline | GATK · SLURM · Nextflow · VEP 
+| Cancer Transcriptomics (TCGA-COAD) | TCGAbiolinks · DESeq2 · OncoKB 
+| GWAS SNP Prioritisation — Asthma | FUMA · BioMart · eQTL · R 
+| scRNA-seq Cardiac OFT Analysis | Scanpy · decoupler · GSEApy 
+| Multi-Omics Integration Framework | Python · R · Nextflow · AWS 
+
+---
+
+## 🛠️ Skills & Stack
 
 ### Bioinformatics & Pipeline Engineering
-
-* **Omics Expertise:** WES/WGS, bulk/single-cell RNA-seq, Spatial Transcriptomics, GWAS, and Multi-omics Integration.
-
-* **Programming:** Python (Pandas, Scikit-learn, TensorFlow), R (Bioconductor, Tidyverse), Bash, SQL, and Git/GitHub.
-
-* **Pipeline Orchestration:** **Nextflow**, Snakemake, and Linux/Unix environments.
-
-* **NGS Tool Stack:**
-  - **Alignment & Processing:** STAR, BWA, Bowtie, SAMtools, Picard, and BEDTools.
-  - **Variant Calling & Annotation:** GATK, bcftools, VEP, GTEx, and GWAS Catalog.
-  - **Differential Expression & GWAS:** DESeq2 and PLINK.
-  - **Computation & Cloud:** SLURM, HPC environments, and AWS (EC2, S3, Lambda).
+```
+Omics         │ WES/WGS · bulk/scRNA-seq · Spatial Transcriptomics · GWAS · Multi-omics
+Languages     │ Python (Pandas, Scikit-learn, TensorFlow) · R (Bioconductor, Tidyverse) · Bash · SQL
+Pipelines     │ Nextflow · Snakemake · Docker · Linux/Unix
+NGS Tools     │ STAR · BWA · SAMtools · Picard · GATK · bcftools · VEP · DESeq2 · PLINK
+Cloud & HPC   │ AWS (EC2, S3, Lambda) · SLURM · Git/GitHub
+Single-Cell   │ Seurat · Scanpy · decoupler · GSEApy
+```
 
 ### Data Science & Analytics
-
-* **Machine Learning:** Supervised/Unsupervised Learning, Deep Learning for omics, and Statistical Validation of ML Models.
-* **Product Analytics:** Amplitude tracking, Looker Studio, and Google Analytics.
-* **Visualisation:** R (ggplot2, Shiny), Python (Matplotlib, Plotly), Tableau, and Power BI.
-
-## Writing & Contributions
-
-### Medium Publications
-
-I write about trends and deep-dive workflows and tutorials in bioinformatics, translating biological complexity into analytical clarity.
-
-📖 [Visit My Medium Profile](https://medium.com/@naila.srivastava)
-
-### Kaggle Datasets & Notebooks
-
-I actively contribute curated datasets and code with real-world relevance:
-
-* **Drugs, Conditions & Side Effects:** (5.5K+ views | 1.2K+ downloads).
-* **Life Expectancy Analysis:** (6K+ views | 1.5K+ downloads).
-
-🔗 [Visit My Kaggle Profile](https://kaggle.com/nailasrivastava)
-
-## 🌐 Let’s Connect
-
-I am open to collaborations and research roles in **Bioinformatics, Genomics, and Precision Medicine**.
-
->*"In a world full of noise, I turn complex biological data into meaningful signals."*
+```
+ML/DL         │ Supervised/Unsupervised Learning · Deep Learning for omics · XGBoost · TensorFlow
+Analytics     │ Amplitude · Looker Studio · Google Analytics · Tableau · Power BI
+Visualisation │ ggplot2 · Shiny · Matplotlib · Plotly
+```
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Naila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naila-Srivastava&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naila-Srivastava&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## ✍️ Writing & Contributions
+
+### 📖 Medium — The Bioinformatics Playbook
+Bridging the gap between biology and code through technical blogs and tutorials on workflow automation, data visualisation, and reproducible research practices.
+
+➡️ [Visit My Medium Profile](https://medium.com/@naila.srivastava)
+
+### 📊 Kaggle — Curated Datasets & Notebooks
+
+| Dataset | Stats |
+|---|---|
+| Drugs, Conditions & Side Effects | 5.5K+ views · 1.2K+ downloads |
+| Life Expectancy Analysis | 6K+ views · 1.5K+ downloads |
+
+➡️ [Visit My Kaggle Profile](https://kaggle.com/nailasrivastava)
+
+---
+
+## 🌐 Let's Connect
+
+I'm open to collaborations and research roles in **Bioinformatics, Genomics, Computational Biology, and Precision Medicine** — particularly in rare disease, cancer genomics, or multi-omics integration in the UK/EU.
+
+<div align="center">
+
+> *"In a world full of noise, I turn complex biological data into meaningful signals."*
+
+</div>
