@@ -1,6 +1,9 @@
 # 👋 Hello, I’m Naila Srivastava  
 **Bioinformatician - Genomics & Pipelines**
 
+<img width="1410" height="630" alt="image" src="https://github.com/user-attachments/assets/c978a44a-9752-44b7-9f28-66db84de264d" />
+
+
 MSc Bioinformatics & Systems Biology | University of Manchester 🇬🇧  
 Open to global opportunities   
 
