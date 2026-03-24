@@ -64,8 +64,8 @@ Visualisation │ ggplot2 · Shiny · Matplotlib · Plotly
 
 <div align="center">
 
-![Naila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naila-Srivastava&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naila-Srivastava&layout=compact&theme=github_dark&hide_border=true)
+![Naila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naila-Srivastava&show_icons=true&theme=rose)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naila-Srivastava&layout=compact&theme=rose)
 
 </div>
 
