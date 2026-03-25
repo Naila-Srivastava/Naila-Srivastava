@@ -1,0 +1,225 @@
+<svg width="100%" viewBox="0 0 680 340" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .bg { fill: #0d1117; }
+  .panel { fill: #161b22; }
+  .label { font-family: monospace; font-size: 10px; fill: #8b949e; }
+  .coord { font-family: monospace; font-size: 9px; fill: #58a6ff; }
+  .name { font-family: monospace; font-size: 11px; fill: #e6edf3; font-weight: 600; letter-spacing: 2px; }
+  .sub { font-family: monospace; font-size: 9px; fill: #8b949e; letter-spacing: 1px; }
+  .watermark { font-family: monospace; font-size: 8px; fill: #30363d; letter-spacing: 1px; }
+
+  @keyframes scrollReads  { 0% { transform: translateX(0px); } 100% { transform: translateX(-80px); } }
+  @keyframes scrollReads2 { 0% { transform: translateX(0px); } 100% { transform: translateX(-60px); } }
+  @keyframes scrollReads3 { 0% { transform: translateX(0px); } 100% { transform: translateX(-100px); } }
+  @keyframes scrollReads4 { 0% { transform: translateX(0px); } 100% { transform: translateX(-70px); } }
+  @keyframes scrollReads5 { 0% { transform: translateX(0px); } 100% { transform: translateX(-90px); } }
+  @keyframes pulseFade  { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } }
+  @keyframes pulseFade2 { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+  @keyframes scanCursor { 0% { transform: translateX(80px); opacity: 1; } 90% { transform: translateX(580px); opacity: 1; } 91% { opacity: 0; } 99% { transform: translateX(80px); opacity: 0; } 100% { opacity: 1; } }
+  @keyframes snpPulse   { 0%, 100% { opacity: 0.5; stroke-width: 1; } 50% { opacity: 1; stroke-width: 1.5; } }
+  @keyframes depthWave  { 0%, 100% { opacity: 0.5; } 50% { opacity: 0.9; } }
+  @keyframes fadeInUp   { 0% { opacity: 0; transform: translateY(6px); } 100% { opacity: 1; transform: translateY(0); } }
+
+  .row1 { animation: scrollReads  3.8s linear infinite; }
+  .row2 { animation: scrollReads2 4.5s linear infinite; }
+  .row3 { animation: scrollReads3 3.2s linear infinite; }
+  .row4 { animation: scrollReads4 5.0s linear infinite; }
+  .row5 { animation: scrollReads5 4.1s linear infinite; }
+  .cursor-line { animation: scanCursor 3s ease-in-out infinite; }
+  .snp-line    { animation: snpPulse 2s ease-in-out infinite; }
+  .depth-g     { animation: depthWave 2.5s ease-in-out infinite; }
+  .r1g { animation: pulseFade  2.8s ease-in-out infinite; }
+  .r2g { animation: pulseFade2 3.1s ease-in-out infinite; }
+  .r3g { animation: pulseFade  3.5s ease-in-out infinite 0.4s; }
+  .r4g { animation: pulseFade2 2.6s ease-in-out infinite 0.8s; }
+  .r5g { animation: pulseFade  3.8s ease-in-out infinite 0.2s; }
+  .info { animation: fadeInUp 1s ease-out 0.3s both; }
+</style>
+
+<rect width="680" height="340" class="bg" rx="8"/>
+<rect x="10" y="10" width="660" height="320" class="panel" rx="6"/>
+<rect x="10" y="10" width="660" height="320" fill="none" stroke="#30363d" stroke-width="0.5" rx="6"/>
+<rect x="10" y="10" width="660" height="28" fill="#161b22" rx="6"/>
+<rect x="10" y="30" width="660" height="8" fill="#161b22"/>
+<line x1="10" y1="38" x2="670" y2="38" stroke="#30363d" stroke-width="0.5"/>
+<circle cx="28" cy="24" r="5" fill="#ff5f57"/>
+<circle cx="44" cy="24" r="5" fill="#febc2e"/>
+<circle cx="60" cy="24" r="5" fill="#28c840"/>
+<text x="80" y="28" class="label" style="font-size:9px">IGV — cardiac_OFT_scRNA.bam · CHR7:117,480,000</text>
+<text x="340" y="28" class="watermark" text-anchor="middle">MSc · UNIV. OF MANCHESTER</text>
+
+<clipPath id="readClip">
+  <rect x="78" y="38" width="584" height="185"/>
+</clipPath>
+
+<g class="depth-g">
+  <rect x="20" y="45" width="640" height="22" fill="#0d1117" rx="2"/>
+  <text x="25" y="58" class="label">DEPTH</text>
+  <rect x="80"  y="48" width="28" height="16" fill="#1f6feb" opacity="0.6"/>
+  <rect x="115" y="44" width="28" height="20" fill="#1f6feb" opacity="0.6"/>
+  <rect x="150" y="46" width="28" height="18" fill="#1f6feb" opacity="0.6"/>
+  <rect x="185" y="42" width="32" height="22" fill="#388bfd" opacity="0.7"/>
+  <rect x="224" y="40" width="36" height="24" fill="#388bfd" opacity="0.8"/>
+  <rect x="267" y="38" width="28" height="26" fill="#388bfd" opacity="0.8"/>
+  <rect x="302" y="42" width="28" height="22" fill="#1f6feb" opacity="0.6"/>
+  <rect x="337" y="44" width="32" height="20" fill="#1f6feb" opacity="0.6"/>
+  <rect x="376" y="41" width="30" height="23" fill="#388bfd" opacity="0.7"/>
+  <rect x="413" y="43" width="28" height="21" fill="#1f6feb" opacity="0.6"/>
+  <rect x="448" y="45" width="30" height="19" fill="#1f6feb" opacity="0.6"/>
+  <rect x="485" y="42" width="32" height="22" fill="#388bfd" opacity="0.7"/>
+  <rect x="524" y="44" width="28" height="20" fill="#1f6feb" opacity="0.6"/>
+  <rect x="559" y="46" width="30" height="18" fill="#1f6feb" opacity="0.6"/>
+  <rect x="596" y="43" width="28" height="21" fill="#1f6feb" opacity="0.6"/>
+  <rect x="631" y="45" width="20" height="19" fill="#1f6feb" opacity="0.6"/>
+</g>
+
+<g clip-path="url(#readClip)">
+  <g class="r1g">
+    <rect x="20" y="72" width="640" height="18" fill="#0d1117" rx="1"/>
+    <text x="25" y="85" class="label">READ_01</text>
+    <g class="row1">
+      <rect x="80"  y="73" width="55" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="142" y="73" width="70" height="15" fill="#3fb950" rx="2"/>
+      <rect x="219" y="73" width="48" height="15" fill="#f78166" rx="2"/>
+      <rect x="274" y="73" width="62" height="15" fill="#e3b341" rx="2"/>
+      <rect x="343" y="73" width="55" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="405" y="73" width="68" height="15" fill="#3fb950" rx="2"/>
+      <rect x="480" y="73" width="50" height="15" fill="#f78166" rx="2"/>
+      <rect x="537" y="73" width="60" height="15" fill="#e3b341" rx="2"/>
+      <rect x="604" y="73" width="55" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="666" y="73" width="50" height="15" fill="#3fb950" rx="2"/>
+      <rect x="723" y="73" width="55" height="15" fill="#e3b341" rx="2"/>
+    </g>
+  </g>
+  <g class="r2g">
+    <rect x="20" y="93" width="640" height="18" fill="#0d1117" rx="1"/>
+    <text x="25" y="106" class="label">READ_02</text>
+    <g class="row2">
+      <rect x="80"  y="94" width="40" height="15" fill="#e3b341" rx="2"/>
+      <rect x="127" y="94" width="62" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="196" y="94" width="35" height="15" fill="#f78166" rx="2"/>
+      <rect x="238" y="94" width="70" height="15" fill="#3fb950" rx="2"/>
+      <rect x="315" y="94" width="48" height="15" fill="#e3b341" rx="2"/>
+      <rect x="370" y="94" width="58" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="435" y="94" width="42" height="15" fill="#f78166" rx="2"/>
+      <rect x="484" y="94" width="66" height="15" fill="#3fb950" rx="2"/>
+      <rect x="557" y="94" width="50" height="15" fill="#e3b341" rx="2"/>
+      <rect x="614" y="94" width="36" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="657" y="94" width="62" height="15" fill="#3fb950" rx="2"/>
+      <rect x="726" y="94" width="40" height="15" fill="#f78166" rx="2"/>
+    </g>
+  </g>
+  <g class="r3g">
+    <rect x="20" y="114" width="640" height="18" fill="#0d1117" rx="1"/>
+    <text x="25" y="127" class="label">READ_03</text>
+    <g class="row3">
+      <rect x="80"  y="115" width="62" height="15" fill="#3fb950" rx="2"/>
+      <rect x="149" y="115" width="45" height="15" fill="#f78166" rx="2"/>
+      <rect x="201" y="115" width="58" height="15" fill="#e3b341" rx="2"/>
+      <rect x="266" y="115" width="40" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="313" y="115" width="65" height="15" fill="#3fb950" rx="2"/>
+      <rect x="385" y="115" width="50" height="15" fill="#f78166" rx="2"/>
+      <rect x="442" y="115" width="55" height="15" fill="#e3b341" rx="2"/>
+      <rect x="504" y="115" width="44" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="555" y="115" width="60" height="15" fill="#3fb950" rx="2"/>
+      <rect x="622" y="115" width="48" height="15" fill="#f78166" rx="2"/>
+      <rect x="677" y="115" width="58" height="15" fill="#e3b341" rx="2"/>
+      <rect x="742" y="115" width="40" height="15" fill="#1f6feb" rx="2"/>
+    </g>
+  </g>
+  <g class="r4g">
+    <rect x="20" y="135" width="640" height="18" fill="#0d1117" rx="1"/>
+    <text x="25" y="148" class="label">READ_04</text>
+    <g class="row4">
+      <rect x="80"  y="136" width="35" height="15" fill="#f78166" rx="2"/>
+      <rect x="122" y="136" width="55" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="184" y="136" width="48" height="15" fill="#3fb950" rx="2"/>
+      <rect x="239" y="136" width="62" height="15" fill="#e3b341" rx="2"/>
+      <rect x="308" y="136" width="45" height="15" fill="#f78166" rx="2"/>
+      <rect x="360" y="136" width="70" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="437" y="136" width="38" height="15" fill="#3fb950" rx="2"/>
+      <rect x="482" y="136" width="58" height="15" fill="#e3b341" rx="2"/>
+      <rect x="547" y="136" width="50" height="15" fill="#f78166" rx="2"/>
+      <rect x="604" y="136" width="46" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="657" y="136" width="55" height="15" fill="#3fb950" rx="2"/>
+      <rect x="719" y="136" width="48" height="15" fill="#e3b341" rx="2"/>
+    </g>
+  </g>
+  <g class="r5g">
+    <rect x="20" y="156" width="640" height="18" fill="#0d1117" rx="1"/>
+    <text x="25" y="169" class="label">READ_05</text>
+    <g class="row5">
+      <rect x="80"  y="157" width="48" height="15" fill="#e3b341" rx="2"/>
+      <rect x="135" y="157" width="30" height="15" fill="#3fb950" rx="2"/>
+      <rect x="172" y="157" width="65" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="244" y="157" width="42" height="15" fill="#f78166" rx="2"/>
+      <rect x="293" y="157" width="58" height="15" fill="#e3b341" rx="2"/>
+      <rect x="358" y="157" width="35" height="15" fill="#3fb950" rx="2"/>
+      <rect x="400" y="157" width="62" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="469" y="157" width="50" height="15" fill="#f78166" rx="2"/>
+      <rect x="526" y="157" width="45" height="15" fill="#e3b341" rx="2"/>
+      <rect x="578" y="157" width="55" height="15" fill="#3fb950" rx="2"/>
+      <rect x="640" y="157" width="48" height="15" fill="#1f6feb" rx="2"/>
+      <rect x="695" y="157" width="42" height="15" fill="#f78166" rx="2"/>
+    </g>
+  </g>
+
+  <line class="snp-line" x1="290" y1="38" x2="290" y2="178" stroke="#e3b341" stroke-width="1" stroke-dasharray="3,2"/>
+  <text x="294" y="192" class="label" style="fill:#e3b341; font-size:8px">SNP</text>
+  <line class="cursor-line" x1="0" y1="38" x2="0" y2="178" stroke="#58a6ff" stroke-width="1.2" opacity="0.9"/>
+</g>
+
+<rect x="20" y="185" width="640" height="18" fill="#0d1117" rx="1"/>
+<text x="25"  y="198" class="coord">CHR7:117,480,000</text>
+<text x="390" y="198" class="coord">117,480,500</text>
+<text x="600" y="198" class="coord">117,481,000</text>
+
+<rect x="20" y="207" width="640" height="14" fill="#111820"/>
+<g style="font-family:monospace; font-size:8px;">
+  <text x="80"  y="218" fill="#f78166">A</text><text x="92"  y="218" fill="#3fb950">T</text>
+  <text x="104" y="218" fill="#1f6feb">C</text><text x="116" y="218" fill="#e3b341">G</text>
+  <text x="128" y="218" fill="#f78166">A</text><text x="140" y="218" fill="#3fb950">T</text>
+  <text x="152" y="218" fill="#1f6feb">C</text><text x="164" y="218" fill="#e3b341">G</text>
+  <text x="176" y="218" fill="#f78166">A</text><text x="188" y="218" fill="#3fb950">T</text>
+  <text x="200" y="218" fill="#1f6feb">C</text><text x="212" y="218" fill="#e3b341">G</text>
+  <text x="224" y="218" fill="#f78166">A</text><text x="236" y="218" fill="#3fb950">T</text>
+  <text x="248" y="218" fill="#1f6feb">C</text><text x="260" y="218" fill="#e3b341">G</text>
+  <text x="272" y="218" fill="#f78166">A</text><text x="284" y="218" fill="#3fb950">T</text>
+  <text x="296" y="218" fill="#e3b341" style="font-weight:bold">G</text>
+  <text x="308" y="218" fill="#f78166">A</text><text x="320" y="218" fill="#3fb950">T</text>
+  <text x="332" y="218" fill="#1f6feb">C</text><text x="344" y="218" fill="#e3b341">G</text>
+  <text x="356" y="218" fill="#f78166">A</text><text x="368" y="218" fill="#3fb950">T</text>
+  <text x="380" y="218" fill="#1f6feb">C</text><text x="392" y="218" fill="#e3b341">G</text>
+  <text x="404" y="218" fill="#f78166">A</text><text x="416" y="218" fill="#3fb950">T</text>
+  <text x="428" y="218" fill="#1f6feb">C</text><text x="440" y="218" fill="#e3b341">G</text>
+  <text x="452" y="218" fill="#f78166">A</text><text x="464" y="218" fill="#3fb950">T</text>
+  <text x="476" y="218" fill="#1f6feb">C</text><text x="488" y="218" fill="#e3b341">G</text>
+  <text x="500" y="218" fill="#f78166">A</text><text x="512" y="218" fill="#3fb950">T</text>
+  <text x="524" y="218" fill="#1f6feb">C</text><text x="536" y="218" fill="#e3b341">G</text>
+  <text x="548" y="218" fill="#f78166">A</text><text x="560" y="218" fill="#3fb950">T</text>
+  <text x="572" y="218" fill="#1f6feb">C</text><text x="584" y="218" fill="#e3b341">G</text>
+  <text x="596" y="218" fill="#f78166">A</text><text x="608" y="218" fill="#3fb950">T</text>
+  <text x="620" y="218" fill="#1f6feb">C</text><text x="632" y="218" fill="#e3b341">G</text>
+</g>
+
+<line x1="20" y1="225" x2="660" y2="225" stroke="#30363d" stroke-width="0.5"/>
+
+<g class="info">
+  <rect x="555" y="232" width="100" height="38" fill="#0d1117" rx="3" stroke="#30363d" stroke-width="0.5"/>
+  <rect x="562" y="238" width="8" height="8" fill="#1f6feb" rx="1"/>
+  <text x="574" y="246" class="label">A</text>
+  <rect x="588" y="238" width="8" height="8" fill="#f78166" rx="1"/>
+  <text x="600" y="246" class="label">C</text>
+  <rect x="562" y="252" width="8" height="8" fill="#3fb950" rx="1"/>
+  <text x="574" y="260" class="label">T</text>
+  <rect x="588" y="252" width="8" height="8" fill="#e3b341" rx="1"/>
+  <text x="600" y="260" class="label">G</text>
+  <text x="340" y="250" text-anchor="middle" class="name">NAILA SRIVASTAVA</text>
+  <text x="340" y="265" text-anchor="middle" class="sub">Bioinformatician · Genomics &amp; Pipelines</text>
+  <text x="340" y="279" text-anchor="middle" class="sub" style="fill:#58a6ff">NGS · scRNA-seq · Variant Calling · Nextflow · AWS</text>
+</g>
+
+<line x1="20" y1="293" x2="660" y2="293" stroke="#30363d" stroke-width="0.5"/>
+<text x="340" y="308" text-anchor="middle" class="watermark">github.com/naila-srivastava · MSc Bioinformatics · University of Manchester</text>
+<text x="340" y="323" text-anchor="middle" class="watermark">Scaling Genomic Discovery through Engineering</text>
+</svg>
