@@ -1,4 +1,4 @@
-![Naila Srivastava](./GitHub)
+![Naila Srivastava](./github-banner.svg)
 
 <div align="center">
 
