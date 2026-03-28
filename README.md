@@ -11,26 +11,20 @@ MSc Bioinformatics & Systems Biology · University of Manchester 🇬🇧
 
 ## Connect with me
 
-## Connect with me
-
-<a href="https://www.linkedin.com/in/naila-srivastava-28oct/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+<a href="https://www.linkedin.com/in/naila-srivastava-28oct/" target="_blank" rel="noopener">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="48" height="48">
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@naila.srivastava" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968890.png" alt="Medium" width="40" height="40">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@naila.srivastava" target="_blank" rel="noopener">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968890.png" alt="Medium" width="48" height="48">
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/nailasrivastava" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="Kaggle" width="40" height="40">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/nailasrivastava" target="_blank" rel="noopener">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="Kaggle" width="48" height="48">
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Naila-Srivastava" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968957.png" alt="GitHub" width="40" height="40">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://sites.google.com/view/bioinfobynaila/" target="_blank">   
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968898.png" alt="Portfolio" width="40" height="40">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://sites.google.com/view/bioinfobynaila/" target="_blank" rel="noopener">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968898.png" alt="Portfolio" width="48" height="48">
 </a>
 
 </div>
