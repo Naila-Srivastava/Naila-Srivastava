@@ -9,10 +9,12 @@ MSc Bioinformatics & Systems Biology · University of Manchester 🇬🇧
 
 *Scaling Genomic Discovery through Engineering*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naila%20Srivastava-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/naila-srivastava-28oct/)
-[![Medium](https://img.shields.io/badge/Medium-The%20Bioinformatics%20Playbook-12100E?style=flat&logo=medium)](https://medium.com/@naila.srivastava)
-[![Kaggle](https://img.shields.io/badge/Kaggle-nailasrivastava-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/nailasrivastava)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bioinfobynaila-4285F4?style=flat&logo=google)](https://sites.google.com/view/bioinfobynaila/)
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naila-srivastava/)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naila.srivastava)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nailasrivastava)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sites.google.com/view/bioinfobynaila/)
 [![Open to Work](https://img.shields.io/badge/Open%20to-Bioinformatics%20Roles-brightgreen?style=flat)]()
 
 </div>
@@ -21,15 +23,15 @@ MSc Bioinformatics & Systems Biology · University of Manchester 🇬🇧
 
 ## 🧬 About Me
 
-I didn't choose bioinformatics because it was easy — I chose it because it sits at the intersection of two things I find endlessly fascinating: the complexity of biology and the precision of computation.
+I didn't choose bioinformatics because it was easy; I chose it because it sits at the intersection of two things I find endlessly fascinating: the complexity of biology and the precision of computation.
 
-I specialise in building **reproducible, high-throughput genomics pipelines** for NGS, single-cell, rare disease, and cancer genomics — bridging large-scale data engineering with biological discovery. Currently leading analytics pipeline design at Talentlo while continuing to build open-source bioinformatics tooling.
+I specialise in building **reproducible, high-throughput genomics pipelines** for NGS, single-cell, rare disease, and cancer genomics, bridging large-scale data engineering with biological discovery. Currently leading analytics pipeline design at Talentlo while continuing to build open-source bioinformatics tooling.
 
 ---
 
 ## 🔬 Currently Building & Exploring
 
-| Project | Stack | Status |
+| Project | Stack |
 |---|---|---|
 | Scalable WES Variant Calling Pipeline | GATK · SLURM · Nextflow · VEP 
 | Cancer Transcriptomics (TCGA-COAD) | TCGAbiolinks · DESeq2 · OncoKB 
@@ -91,7 +93,7 @@ Bridging the gap between biology and code through technical blogs and tutorials 
 
 ## 🌐 Let's Connect
 
-I'm open to collaborations and research roles in **Bioinformatics, Genomics, Computational Biology, and Precision Medicine** — particularly in rare disease, cancer genomics, or multi-omics integration in the UK/EU.
+I'm open to collaborations and research roles in **Bioinformatics, Genomics, Computational Biology, and Precision Medicine**, particularly in rare disease, cancer genomics, or multi-omics integration in the UK/EU.
 
 <div align="center">
 
