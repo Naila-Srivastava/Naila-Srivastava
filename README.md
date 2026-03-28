@@ -12,19 +12,19 @@ MSc Bioinformatics & Systems Biology · University of Manchester 🇬🇧
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/naila-srivastava-28oct/" target="_blank" rel="noopener">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="48" height="48">
+  <img src="https://www.flaticon.com/free-icons/linkedin" alt="LinkedIn" width="48" height="48">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@naila.srivastava" target="_blank" rel="noopener">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968890.png" alt="Medium" width="48" height="48">
+  <img src="https://www.flaticon.com/free-icons/medium" alt="Medium" width="48" height="48">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/nailasrivastava" target="_blank" rel="noopener">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="Kaggle" width="48" height="48">
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="Kaggle" width="48" height="48">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://sites.google.com/view/bioinfobynaila/" target="_blank" rel="noopener">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968898.png" alt="Portfolio" width="48" height="48">
+  <img src="https://www.flaticon.com/free-icons/portfolio" alt="Portfolio" width="48" height="48">
 </a>
 
 </div>
@@ -41,7 +41,7 @@ I specialise in building **reproducible, high-throughput genomics pipelines** fo
 
 ## 🔬 Currently Building & Exploring
 
-| Project | Stack |
+| Project | Stack 
 |---|---|---|
 | Scalable WES Variant Calling Pipeline | GATK · SLURM · Nextflow · VEP 
 | Cancer Transcriptomics (TCGA-COAD) | TCGAbiolinks · DESeq2 · OncoKB 
