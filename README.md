@@ -13,11 +13,25 @@ MSc Bioinformatics & Systems Biology · University of Manchester 🇬🇧
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naila-srivastava-28oct/))
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naila.srivastava)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nailasrivastava)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/bioinfobynaila/)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Bioinformatics%20Roles-brightgreen?style=flat)]()
+<a href="https://www.linkedin.com/in/naila-srivastava-28oct/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@naila.srivastava" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968890.png" alt="Medium" width="40" height="40">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/nailasrivastava" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="Kaggle" width="40" height="40">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Naila-Srivastava" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968957.png" alt="GitHub" width="40" height="40">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://sites.google.com/view/bioinfobynaila/" target="_blank">   
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968898.png" alt="Portfolio" width="40" height="40">
+</a>
 
 </div>
 
