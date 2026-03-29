@@ -9,26 +9,6 @@ MSc Bioinformatics & Systems Biology · University of Manchester 🇬🇧
 
 *Scaling Genomic Discovery through Engineering*
 
-## Connect with me
-
-<a href="https://www.linkedin.com/in/naila-srivastava-28oct/" target="_blank" rel="noopener">
-  <img src="https://www.flaticon.com/free-icons/linkedin" alt="LinkedIn" width="48" height="48">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/@naila.srivastava" target="_blank" rel="noopener">
-  <img src="https://www.flaticon.com/free-icons/medium" alt="Medium" width="48" height="48">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/nailasrivastava" target="_blank" rel="noopener">
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="Kaggle" width="48" height="48">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://sites.google.com/view/bioinfobynaila/" target="_blank" rel="noopener">
-  <img src="https://www.flaticon.com/free-icons/portfolio" alt="Portfolio" width="48" height="48">
-</a>
-
-</div>
-
 ---
 
 ## 🧬 About Me
@@ -41,8 +21,8 @@ I specialise in building **reproducible, high-throughput genomics pipelines** fo
 
 ## 🔬 Currently Building & Exploring
 
-| Project | Stack 
-|---|---|---|
+| Project | Stack |
+|---|---|
 | Scalable WES Variant Calling Pipeline | GATK · SLURM · Nextflow · VEP 
 | Cancer Transcriptomics (TCGA-COAD) | TCGAbiolinks · DESeq2 · OncoKB 
 | GWAS SNP Prioritisation — Asthma | FUMA · BioMart · eQTL · R 
