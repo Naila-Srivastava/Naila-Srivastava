@@ -9,6 +9,8 @@ MSc Bioinformatics & Systems Biology · University of Manchester 🇬🇧
 
 *Scaling Genomic Discovery through Engineering*
 
+</div>
+  
 ---
 
 ## 🧬 About Me
