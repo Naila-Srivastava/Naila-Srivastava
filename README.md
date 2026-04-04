@@ -35,28 +35,39 @@ I specialise in building **reproducible, high-throughput genomics pipelines** fo
 
 ### Bioinformatics & Pipeline Engineering
 ```
+
 Omics         │ WES/WGS · bulk/scRNA-seq · Spatial Transcriptomics · GWAS · Multi-omics
 Languages     │ Python (Pandas, Scikit-learn, TensorFlow) · R (Bioconductor, Tidyverse) · Bash · SQL
 Pipelines     │ Nextflow · Snakemake · Docker · Linux/Unix
 NGS Tools     │ STAR · BWA · SAMtools · Picard · GATK · bcftools · VEP · DESeq2 · PLINK
 Cloud & HPC   │ AWS (EC2, S3, Lambda) · SLURM · Git/GitHub
 Single-Cell   │ Seurat · Scanpy · decoupler · GSEApy
+
 ```
 
 ### Data Science & Analytics
 ```
+
 ML/DL         │ Supervised/Unsupervised Learning · Deep Learning for omics · XGBoost · TensorFlow
 Analytics     │ Amplitude · Looker Studio · Google Analytics · Tableau · Power BI
 Visualisation │ ggplot2 · Shiny · Matplotlib · Plotly
+
 ```
 
 ---
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Naila-Srivastava&theme=rose" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Naila-Srivastava&theme=rose&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naila-Srivastava&theme=github_dark" alt="GitHub Stats"/>
+</p>
+
 ---
 
 ## ✍️ Writing & Contributions
