@@ -19,18 +19,6 @@ I specialise in building **reproducible, high-throughput genomics pipelines** fo
 
 ---
 
-## 🔬 Currently Building & Exploring
-
-| Project | Stack |
-|---|---|
-| Scalable WES Variant Calling Pipeline | GATK · SLURM · Nextflow · VEP 
-| Cancer Transcriptomics (TCGA-COAD) | TCGAbiolinks · DESeq2 · OncoKB 
-| GWAS SNP Prioritisation — Asthma | FUMA · BioMart · eQTL · R 
-| scRNA-seq Cardiac OFT Analysis | Scanpy · decoupler · GSEApy 
-| Multi-Omics Integration Framework | Python · R · Nextflow · AWS 
-
----
-
 ## 🛠️ Skills & Stack
 
 ### Bioinformatics & Pipeline Engineering
