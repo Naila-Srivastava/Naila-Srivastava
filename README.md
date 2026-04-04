@@ -54,23 +54,22 @@ Visualisation │ ggplot2 · Shiny · Matplotlib · Plotly
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Naila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naila-Srivastava&show_icons=true&theme=rose)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naila-Srivastava&layout=compact&theme=rose)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naila-Srivastava&show_icons=true&theme=rose" alt="Naila's GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naila-Srivastava&layout=compact&theme=rose" alt="Top Langs" />
+</p>
 
 ---
 
 ## ✍️ Writing & Contributions
 
-### 📖 Medium — The Bioinformatics Playbook
+### 📖 Medium - The Bioinformatics Playbook
 Bridging the gap between biology and code through technical blogs and tutorials on workflow automation, data visualisation, and reproducible research practices.
 
 ➡️ [Visit My Medium Profile](https://medium.com/@naila.srivastava)
 
-### 📊 Kaggle — Curated Datasets & Notebooks
+### 📊 Kaggle - Curated Datasets & Notebooks
 
 | Dataset | Stats |
 |---|---|
