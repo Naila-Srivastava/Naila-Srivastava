@@ -55,11 +55,8 @@ Visualisation │ ggplot2 · Shiny · Matplotlib · Plotly
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naila-Srivastava&show_icons=true&theme=rose" alt="Naila's GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naila-Srivastava&layout=compact&theme=rose" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=Naila-Srivastava&theme=rose" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## ✍️ Writing & Contributions
