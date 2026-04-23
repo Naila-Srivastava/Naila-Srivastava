@@ -13,7 +13,7 @@ MSc Bioinformatics & Systems Biology · University of Manchester 🇬🇧
   
 ---
 
-## 🧬 About Me
+## About Me
 
 I didn't choose bioinformatics because it was easy; I chose it because it sits at the intersection of two things I find endlessly fascinating: the complexity of biology and the precision of computation.
 
@@ -21,9 +21,9 @@ I specialise in building **reproducible, high-throughput genomics pipelines** fo
 
 ---
 
-## 🛠️ Skills & Stack
+## Skills & Stack
 
-### 🧬 Bioinformatics & Pipeline Engineering
+### Bioinformatics & Pipeline Engineering
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -97,7 +97,7 @@ I specialise in building **reproducible, high-throughput genomics pipelines** fo
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Naila-Srivastava&theme=rose&hide_border=true" alt="GitHub Streak" />
@@ -109,14 +109,14 @@ I specialise in building **reproducible, high-throughput genomics pipelines** fo
 
 ---
 
-## ✍️ Writing & Contributions
+## Writing & Contributions
 
-### 📖 Medium - The Bioinformatics Playbook
+### Medium - The Bioinformatics Playbook
 Bridging the gap between biology and code through technical blogs and tutorials on workflow automation, data visualisation, and reproducible research practices.
 
 ➡️ [Visit My Medium Profile](https://medium.com/@naila.srivastava)
 
-### 📊 Kaggle - Curated Datasets & Notebooks
+### Kaggle - Curated Datasets & Notebooks
 
 | Dataset | Stats |
 |---|---|
